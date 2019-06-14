@@ -2,3 +2,4 @@ no_problem,difficulty,date_sent,date_done,time_taken_min,notes
 1,easy,2019-06-11,2019-06-11,50,done
 2,hard,2019-06-12,2019-06-13,17,done
 3,medium,2019-06-13,2019-06-13,80,not scalable
+4,hard,2019-06-14,2019-06-14,11,done
