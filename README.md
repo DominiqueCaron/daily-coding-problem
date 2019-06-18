@@ -1,5 +1,5 @@
 # daily-coding-problem
-My solutions of [Daily Coding Problem](https://www.dailycodingproblem.com/) implemented in Julia. 
+My solutions to [Daily Coding Problems](https://www.dailycodingproblem.com/) implemented in Julia. 
 
 Each [Solution](https://github.com/DominiqueCaron/daily-coding-problem/tree/master/Solutions) has its [Test(s)](https://github.com/DominiqueCaron/daily-coding-problem/tree/master/Tests). 
 
