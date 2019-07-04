@@ -21,3 +21,5 @@ no_problem,difficulty,date_sent,date_done,time_taken_min,notes
 20,easy,2019-06-30,2019-06-30,30,finished
 21,easy,2019-07-01,2019-07-02,60,finished
 22,medium,2019-07-02,2019-07,02,20,finished
+23,easy,2019-07-03,NA,NA,not finished
+24,medium,2019-07-04,2019-07-04,60,finished
