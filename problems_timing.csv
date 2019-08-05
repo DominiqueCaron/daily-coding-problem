@@ -52,3 +52,4 @@ no_problem,difficulty,date_sent,date_done,time_taken_min,notes
 51,medium,2019-07-31,2019-08-02,20,done
 52,hard,2019-07-01,2019-08-02,30,done
 53,medium,2019-08-02,2019-08-03,30,done
+54,hard,2019-08-03,NA,NA,not finished
